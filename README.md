@@ -7,8 +7,8 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Desenvolvimento+de+aplica%C3%A7%C3%B5es+web;Desenvolvedor+Full+Stack;Software%2C+eletr%C3%B4nica+e+prototipagem"
-    alt="Desenvolvimento de aplicações web, desenvolvedor Full Stack, software, eletrônica e prototipagem"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Analista+de+dados%C3%A7%C3%B5es;Desenvolvedor+Full+Stack;Software%2C+eletr%C3%B4nica+e+prototipagem"
+    alt="Analista de Dados, desenvolvedor Full Stack, software, eletrônica e prototipagem"
   />
 
   <br />
