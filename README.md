@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Graduando+em+Sistemas+de+Informa%C3%A7%C3%A3o+%40+UFPA;Desenvolvedor+Full+Stack;Software%2C+eletr%C3%B4nica+e+prototipagem" alt="Graduando em Sistemas de Informação pela UFPA e desenvolvedor Full Stack" />
 
-[![UFPA](https://img.shields.io/badge/UFPA-Sistemas%20de%20Informa%C3%A7%C3%A3o-0F766E?style=flat-square)
+![UFPA](https://img.shields.io/badge/UFPA-Sistemas%20de%20Informa%C3%A7%C3%A3o-0F766E?style=flat-square)
 
 </div>
 
@@ -18,11 +18,6 @@ Sou **graduando em Sistemas de Informação pela Universidade Federal do Pará (
 
 Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecatrônica, eletrônica e robótica. Gosto de explorar a conexão entre código e mundo físico por meio de **Arduino, servomotores, automação, sistemas embarcados e prototipagem** — áreas que ampliam as possibilidades do que podemos construir com software.
 
-<p align="center">
-  <a href="#projetos-em-destaque">Projetos</a> &nbsp;·&nbsp;
-  <a href="#tecnologias-e-ferramentas">Tecnologias</a> &nbsp;·&nbsp;
-  <a href="#atividade-no-github">Atividade</a>
-</p>
 
 ## Tecnologias e ferramentas
 
