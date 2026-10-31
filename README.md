@@ -26,7 +26,7 @@ alt="Analista de Dados, desenvolvedor Full Stack, software, eletrônica e protot
 
 Sou **graduando em Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e **desenvolvedor Full Stack**. Gosto de transformar problemas em soluções de software, trabalhando da interface e das regras de negócio até a persistência de dados e a integração entre componentes.
 
-Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecatrônica, eletrônica e robótica. Gosto de explorar a conexão entre código e mundo físico por meio de **Arduino, servomotores, automação, sistemas embarcados e prototipagem** — áreas que ampliam as possibilidades do que podemos construir com software.
+Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecatrônica, eletrônica e robótica. Gosto de explorar a conexão entre código e mundo físico por meio de **Arduino, servomotores, automação, sistemas embarcados e prototipagem** áreas que ampliam as possibilidades do que podemos construir com software.
 
 ## Tecnologias e ferramentas
 
