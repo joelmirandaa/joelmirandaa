@@ -1,35 +1,29 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F3D3E,100:0F766E&height=230&section=header&text=Joel%20Miranda&desc=Software%20%2B%20Engenharia%20%E2%80%94%20do%20c%C3%B3digo%20ao%20mundo%20f%C3%ADsico&fontSize=46&fontColor=F8FAFC&fontAlignY=36&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Joel Miranda — Software + Engenharia" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=190&section=header&text=JOEL%20MIRANDA&fontSize=48&fontColor=F8FAFC&fontAlignY=45&desc=SOFTWARE%20%26%20ENGINEERING&descSize=14&descColor=14B8A6&descAlignY=72" width="100%" alt="Joel Miranda" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=45&lines=Desenvolvedor+Full+Stack;Analista+de+Dados;Eletr%C3%B4nica%2C+rob%C3%B3tica+e+prototipagem" alt="Desenvolvedor Full Stack, Analista de Dados, eletrônica, robótica e prototipagem" />
+<br />
 
-<p>
-  <img src="https://img.shields.io/badge/UFPA-Sistemas%20de%20Informa%C3%A7%C3%A3o-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" alt="UFPA — Sistemas de Informação" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0B1220?style=for-the-badge&logo=codersrank&logoColor=14B8A6" alt="Desenvolvedor Full Stack" />
-  <img src="https://komarev.com/ghpvc/?username=joelmirandaa&style=for-the-badge&color=0F766E&label=VISITAS" alt="Visitas ao perfil" />
-</p>
+<img src="https://img.shields.io/badge/UFPA-Sistemas%20de%20Informa%C3%A7%C3%A3o-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" alt="UFPA — Sistemas de Informação" />
 
 </div>
 
 <br />
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Sobre mim
+## Sobre mim
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="140" alt="" />
+Sou **graduando em Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e **desenvolvedor Full Stack**. Gosto de transformar problemas em soluções de software, trabalhando desde interfaces e regras de negócio até persistência de dados e integração entre componentes.
 
-Sou **graduando em Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e **desenvolvedor Full Stack**. Gosto de transformar problemas em soluções de software, da interface e das regras de negócio até a persistência de dados e a integração entre componentes.
+Meu interesse por tecnologia também passa pela **engenharia**, especialmente mecânica, mecatrônica, eletrônica e robótica. Exploro a conexão entre código e mundo físico com **Arduino, servomotores, automação, sistemas embarcados e prototipagem**.
 
-Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecatrônica, eletrônica e robótica. Exploro a conexão entre código e mundo físico com **Arduino, servomotores, automação, sistemas embarcados e prototipagem**, áreas que ampliam o que podemos construir com software.
+- Graduando em **Sistemas de Informação** na **UFPA**
+- Desenvolvimento **Full Stack** e **análise de dados**
+- **Eletrônica, robótica e sistemas embarcados**
+- Prototipagem e automação
 
-- 🎓 Graduando em **Sistemas de Informação** na **UFPA**
-- 💻 Desenvolvimento **Full Stack** e **análise de dados**
-- 🤖 **Eletrônica, robótica e sistemas embarcados**
-- 🔧 Sempre prototipando algo novo
+<br />
 
-<br clear="right" />
-
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <table align="center">
   <tr>
@@ -68,17 +62,14 @@ Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecat
   <img src="https://img.shields.io/badge/Prototipagem%20%26%20automa%C3%A7%C3%A3o-0B1220?style=flat-square&logo=autodesk&logoColor=14B8A6" alt="Prototipagem e automação" />
 </div>
 
-## 📊 Estatísticas
+<br />
+
+## Linguagens mais utilizadas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joelmirandaa&show_icons=true&hide_border=true&bg_color=0B1220&title_color=14B8A6&icon_color=14B8A6&text_color=CBD5E1&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmirandaa&layout=compact&hide_border=true&bg_color=0B1220&title_color=14B8A6&text_color=CBD5E1&locale=pt-br&langs_count=6" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmirandaa&layout=compact&hide_border=true&bg_color=0B1220&title_color=14B8A6&text_color=CBD5E1&locale=pt-br&langs_count=8" alt="Linguagens mais utilizadas" />
 </div>
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelmirandaa&bg_color=0B1220&color=CBD5E1&line=14B8A6&point=F8FAFC&area=true&area_color=0F766E&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" alt="Gráfico de contribuições" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0F3D3E,100:0B1220&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=65&section=footer" width="100%" alt="" />
