@@ -1,172 +1,84 @@
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,100:0F766E&amp;height=220&amp;section=header&amp;text=Software%20%2B%20Engenharia&amp;desc=Desenvolvimento%20de%20software%20e%20sistemas%20f%C3%ADsicos&amp;fontSize=34&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;descSize=15&amp;descAlignY=60&amp;animation=twinkling"
-    width="100%"
-    alt="Faixa animada: Software + Engenharia"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F3D3E,100:0F766E&height=230&section=header&text=Joel%20Miranda&desc=Software%20%2B%20Engenharia%20%E2%80%94%20do%20c%C3%B3digo%20ao%20mundo%20f%C3%ADsico&fontSize=46&fontColor=F8FAFC&fontAlignY=36&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Joel Miranda — Software + Engenharia" />
 
-  <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;pause=1200&amp;color=2F81F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Analista+de+Dados;Desenvolvedor+Full+Stack;Software%2C+eletr%C3%B4nica+e+prototipagem"
-alt="Analista de Dados, desenvolvedor Full Stack, software, eletrônica e prototipagem"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=45&lines=Desenvolvedor+Full+Stack;Analista+de+Dados;Eletr%C3%B4nica%2C+rob%C3%B3tica+e+prototipagem" alt="Desenvolvedor Full Stack, Analista de Dados, eletrônica, robótica e prototipagem" />
 
-  <br />
-
-  <img
-    src="https://img.shields.io/badge/UFPA-Graduando%20em%20Sistemas%20de%20Informa%C3%A7%C3%A3o-0F766E?style=flat-square"
-    alt="UFPA — Graduando em Sistemas de Informação"
-  />
+<p>
+  <img src="https://img.shields.io/badge/UFPA-Sistemas%20de%20Informa%C3%A7%C3%A3o-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" alt="UFPA — Sistemas de Informação" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0B1220?style=for-the-badge&logo=codersrank&logoColor=14B8A6" alt="Desenvolvedor Full Stack" />
+  <img src="https://komarev.com/ghpvc/?username=joelmirandaa&style=for-the-badge&color=0F766E&label=VISITAS" alt="Visitas ao perfil" />
+</p>
 
 </div>
 
----
+<br />
 
-## Sobre mim
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> Sobre mim
 
-Sou **graduando em Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e **desenvolvedor Full Stack**. Gosto de transformar problemas em soluções de software, trabalhando da interface e das regras de negócio até a persistência de dados e a integração entre componentes.
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="140" alt="" />
 
-Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecatrônica, eletrônica e robótica. Gosto de explorar a conexão entre código e mundo físico por meio de **Arduino, servomotores, automação, sistemas embarcados e prototipagem** áreas que ampliam as possibilidades do que podemos construir com software.
+Sou **graduando em Sistemas de Informação pela Universidade Federal do Pará (UFPA)** e **desenvolvedor Full Stack**. Gosto de transformar problemas em soluções de software, da interface e das regras de negócio até a persistência de dados e a integração entre componentes.
 
-## Tecnologias e ferramentas
+Meu interesse por tecnologia também passa pela **engenharia**: mecânica, mecatrônica, eletrônica e robótica. Exploro a conexão entre código e mundo físico com **Arduino, servomotores, automação, sistemas embarcados e prototipagem**, áreas que ampliam o que podemos construir com software.
 
-<table>
+- 🎓 Graduando em **Sistemas de Informação** na **UFPA**
+- 💻 Desenvolvimento **Full Stack** e **análise de dados**
+- 🤖 **Eletrônica, robótica e sistemas embarcados**
+- 🔧 Sempre prototipando algo novo
+
+<br clear="right" />
+
+## 🛠️ Tecnologias e ferramentas
+
+<table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <strong>Front-end</strong>
-      <br /><br />
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" title="HTML5">
-        <img
-          alt="HTML5"
-          src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" title="CSS3">
-        <img
-          alt="CSS3"
-          src="https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" title="JavaScript">
-        <img
-          alt="JavaScript"
-          src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=111111"
-        />
-      </a>
-      <a href="https://www.typescriptlang.org/" title="TypeScript">
-        <img
-          alt="TypeScript"
-          src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white"
-        />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Back-end</strong>
-      <br /><br />
-      <a href="https://www.php.net/" title="PHP">
-        <img
-          alt="PHP"
-          src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://nodejs.org/" title="Node.js">
-        <img
-          alt="Node.js"
-          src="https://img.shields.io/badge/Node.js-339933?style=flat&amp;logo=nodedotjs&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://dev.java/" title="Java">
-        <img
-          alt="Java"
-          src="https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://www.python.org/" title="Python">
-        <img
-          alt="Python"
-          src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white"
-        />
-      </a>
+    <td align="center" width="170"><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="HTML5, CSS3, JavaScript, TypeScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=php,nodejs,java,python&theme=dark" alt="PHP, Node.js, Java, Python" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp&theme=dark" alt="C, C++" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco de dados</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="48" alt="MariaDB" />
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>Linguagens adicionais</strong>
-      <br /><br />
-      <a href="https://en.cppreference.com/w/c/language" title="C">
-        <img
-          alt="C"
-          src="https://img.shields.io/badge/C-A8B9CC?style=flat&amp;logo=c&amp;logoColor=111111"
-        />
-      </a>
-      <a href="https://en.cppreference.com/w/cpp/language" title="C++">
-        <img
-          alt="C++"
-          src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white"
-        />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>Banco de dados</strong>
-      <br /><br />
-      <a href="https://dev.mysql.com/doc/" title="MySQL">
-        <img
-          alt="MySQL"
-          src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://mariadb.com/kb/en/documentation/" title="MariaDB">
-        <img
-          alt="MariaDB"
-          src="https://img.shields.io/badge/MariaDB-003545?style=flat&amp;logo=mariadb&amp;logoColor=white"
-        />
-      </a>
-    </td>
+    <td align="center"><b>Infraestrutura</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" alt="Docker, Git, GitHub, Linux" /></td>
   </tr>
   <tr>
-    <td valign="top">
-      <strong>Ferramentas e infraestrutura</strong>
-      <br /><br />
-      <a href="https://docs.docker.com/" title="Docker">
-        <img
-          alt="Docker"
-          src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://git-scm.com/doc" title="Git">
-        <img
-          alt="Git"
-          src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white"
-        />
-      </a>
-      <a href="https://docs.github.com/" title="GitHub">
-        <img
-          alt="GitHub"
-          src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white"
-        />
-      </a>
-    </td>
-    <td valign="top">
-      <strong>Hardware e automação</strong>
-      <br /><br />
-      <a href="https://docs.arduino.cc/" title="Arduino">
-        <img
-          alt="Arduino"
-          src="https://img.shields.io/badge/Arduino-00878A?style=flat&amp;logo=arduino&amp;logoColor=white"
-        />
-      </a>
-      <img
-        alt="Sistemas embarcados"
-        src="https://img.shields.io/badge/Sistemas%20embarcados-%E2%9C%93-334155?style=flat"
-      />
-      <img
-        alt="Eletrônica"
-        src="https://img.shields.io/badge/Eletr%C3%B4nica-%E2%9C%93-475569?style=flat"
-      />
-      <img
-        alt="Prototipagem e automação"
-        src="https://img.shields.io/badge/Prototipagem%20%26%20automa%C3%A7%C3%A3o-%E2%9C%93-0F766E?style=flat"
-      />
-    </td>
+    <td align="center"><b>Hardware</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" /></td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sistemas%20embarcados-0B1220?style=flat-square&logo=espressif&logoColor=14B8A6" alt="Sistemas embarcados" />
+  <img src="https://img.shields.io/badge/Eletr%C3%B4nica-0B1220?style=flat-square&logo=circuitverse&logoColor=14B8A6" alt="Eletrônica" />
+  <img src="https://img.shields.io/badge/Rob%C3%B3tica-0B1220?style=flat-square&logo=probot&logoColor=14B8A6" alt="Robótica" />
+  <img src="https://img.shields.io/badge/Prototipagem%20%26%20automa%C3%A7%C3%A3o-0B1220?style=flat-square&logo=autodesk&logoColor=14B8A6" alt="Prototipagem e automação" />
+</div>
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joelmirandaa&show_icons=true&hide_border=true&bg_color=0B1220&title_color=14B8A6&icon_color=14B8A6&text_color=CBD5E1&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelmirandaa&layout=compact&hide_border=true&bg_color=0B1220&title_color=14B8A6&text_color=CBD5E1&locale=pt-br&langs_count=6" alt="Linguagens mais usadas" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelmirandaa&bg_color=0B1220&color=CBD5E1&line=14B8A6&point=F8FAFC&area=true&area_color=0F766E&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" alt="Gráfico de contribuições" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0F3D3E,100:0B1220&height=120&section=footer" width="100%" alt="" />
